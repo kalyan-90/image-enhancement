@@ -1,0 +1,5 @@
+Experiment,PSNR (dB),SSIM,Delta E 2000,RGB MAE,Latency (ms)
+A: Baseline Retinex,17.08,0.695,16.46,0.1297,838.6
+B: Baseline + IGNRR (Proposed),19.17,0.7597,12.55,0.1039,1919.5
+C: Refinement w/o Noise Aware,19.01,0.7586,13.54,0.1071,1863.7
+D: Refinement w/o Illum Guidance,19.3,0.7603,12.94,0.1037,1999.7
